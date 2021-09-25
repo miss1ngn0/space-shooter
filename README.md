@@ -1,0 +1,1 @@
+Jogo Space Shooter criado utilizando as linguagens CSS, HTML e JavaScript seguindo os passos do curso JavaScript Game Developer da Digital Inovation One.
